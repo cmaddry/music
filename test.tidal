@@ -1,0 +1,3 @@
+d1 $ sound "bd sn sn"
+d2 $ fast 2 $ sound "bd bd sn bd"
+d2 $ silence
